@@ -6,7 +6,7 @@ I am an inquisitive full stack software developer
 
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
-| Makers Final Project  | Japanese language learning game| Redux, MERN       |https://github.com/SimpleLuke/japanese-learning-RPG|
+| Makers Final Project  | Japanese language learning game| Redux, MERN, JWT       |https://github.com/SimpleLuke/japanese-learning-RPG|
 | **Something else worked on** | A webapp to do y.              | Ruby              |         |
 
 ## Work Experience
@@ -20,6 +20,16 @@ Co-founder and CEO
 _Your job title_
 
 - Any experience relevent to software development
+
+## <a name="tech-stack">Tech stack 🤖</a>
+
+- **Front-end:** JavaScript/TypeScript (React), HTML, CSS (Bootstrap, Tailwind, Sass), Three.js(WebGL)
+- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record), REST API, GraphQL
+- **Database:** MongoDB, SQL (PostgreSQL), Firebase
+- **Testing frameworks:** Jest, Cypress, RSpec, Capybara
+- **Deployment:** Heroku, Netlify, Docker
+- **Continuous Integration/Deployment:** CircleCI
+- **Version control:** Git, GitHub
 
 ## Skills
 

@@ -1,20 +1,20 @@
 ## James Mcleish
 
-I am a software developer that loves 
+I am an inquisitive full stack software developer  
 
 ## Projects
 
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
-| Makers Final Project         | Japanese language learning game| Redux, MERN       |https://github.com/SimpleLuke/japanese-learning-RPG|
-| **Something else worked on** | A webapp to do y.              | Ruby              ||
+| Makers Final Project  | Japanese language learning game| Redux, MERN       |https://github.com/SimpleLuke/japanese-learning-RPG|
+| **Something else worked on** | A webapp to do y.              | Ruby              |         |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+NanoFlex (start-date to end-date)  
+Co-founder and CEO
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000
 
 **Company Name** (start-date to end-date)  
 _Your job title_

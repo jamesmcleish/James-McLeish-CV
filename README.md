@@ -7,7 +7,7 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
 | Makers Final Project  | Japanese language learning game| Redux, MERN, JWT       |https://github.com/SimpleLuke/japanese-learning-RPG|
-| Neural Network | A neural network built from scratch, no ML packages          |Python           |         |
+| Neural Network | A neural network built from scratch, using no ML packages          |Python           |         |
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 

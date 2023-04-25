@@ -1,13 +1,13 @@
-## Your Name
+## James Mcleish
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a software developer that loves 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                    | Tech/tools        |   link  |
+| ---------------------------- | -------------------------------| ----------------- |---------|
+| Makers Final Project         | Japanese language learning game| Redux, MERN       |https://github.com/SimpleLuke/japanese-learning-RPG|
+| **Something else worked on** | A webapp to do y.              | Ruby              ||
 
 ## Work Experience
 
@@ -33,9 +33,9 @@ Here's an example
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+#### Project Management
 
-- I achieved A during my work at B (job, or otherwise)
+- I project managed the building of a webapplication that generated revenue for the start-up I founded.
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
@@ -45,7 +45,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2023 to April 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,11 +54,11 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Queen Mary University London 2017-2021
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Financial Mathematics BSc
+- Stochastic processes, stochastic calculus, time Series, statistical modelling, differential equations
+- Graph theory and random walks in python
 
 #### Any other qualifications
 

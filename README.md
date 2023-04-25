@@ -1,6 +1,6 @@
 ## James Mcleish
 
-I am an inquisitive full stack software developer  
+I am an inquisitive **full stack software** developer that likes to prioritse results.
 
 ## Projects
 
@@ -30,20 +30,15 @@ Co-founder and CEO
 - Project managed the launching of our web-application.( https://www.nanoflex.uk/ )
 
 #### Communication
-I pitched my company against 50,000 applicants to achieve a spot in an accelerator based in Boston that was made up of 28 participants. While there I continued to pitch the company to people in the VC community and to successful founders. I recieved a lot of feedback and was able to effectively use it to improve our company. I think that my ability to listen and to talk allows me to work well in a team.
+I pitched my company against 50,000 applicants to achieve a spot in an accelerator based in Boston that was made up of 28 participants. While there I continued to pitch the company to people in the VC community and to successful founders. I recieved a lot of feedback and was able to effectively use it to improve our company.
 
 #### Process Based work for solving problems
 I completed a degree in mathematics. This required a lot of patience and a strong approach to problem solving. It taught me to break down larger problems into smaller ones and to thin about different possible approaches to a solution before jumping in. I believe this has helped me get into a good software developer mindset from early on.
-
-#### Another skill
-
 
 ## Education
 
 #### Makers Academy (January 2023 to April 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, DDT, MVC, DDD
 - Agile/XP
 - Ruby, JavaScript, React, MongoDB, SQL (PostgreSQL)
@@ -54,11 +49,14 @@ I completed a degree in mathematics. This required a lot of patience and a stron
 - Financial Mathematics BSc
 - Stochastic processes, stochastic calculus, time Series, statistical modelling, differential equations
 - Graph theory and random walks in python
+- C++
 
-#### Any other qualifications
+#### Charitable Work
 
-I co-founded a non-profit, Changing Gears. We ran charity events that raised money for various healthcare organisations such as Great Ormand Street childrens hospital and the British Heart Foundation. Over a span of 4 months we raised £10,000 for these organisations.
+I co-founded a non-profit, Changing Gears. We ran charity events that raised money for various healthcare organisations such as Great Ormand Street childrens hospital and the British Heart Foundation. Over a span of 4 months we raised roughly £10,000 for these organisations.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love cooking, particularly for people. 
+I play a lot of chess, my eventual goal for it is to get into the top 1% of all players rating wise.
+I play padel tennis.

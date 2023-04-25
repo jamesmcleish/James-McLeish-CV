@@ -7,16 +7,7 @@ I am an inquisitive full stack software developer
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
 | Makers Final Project  | Japanese language learning game| Redux, MERN, JWT       |https://github.com/SimpleLuke/japanese-learning-RPG|
-| **Something else worked on** | A webapp to do y.              | Ruby              |         |
-
-## Work Experience
-
-NanoFlex (start-date to end-date)  
-Co-founder and CEO
-
-- As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000. Out of 50,000 applicants we were one of the 28 selected to attend.
-- Generated revenue by matching clients from either side of the business, small social media users and small to medium size enterprises.
-- I handled finances, strategy, project managing our developers, and administration.
+| Neural Network | A neural network built from scratch, no ML packages          |Python           |         |
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
@@ -28,22 +19,21 @@ Co-founder and CEO
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+## Work Experience
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### NanoFlex (June 2022 - December 2022)  
+Co-founder and CEO
 
-
-Here's an example
+- As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000 in funding.
+- Generated revenue by matching clients from either side of the business, small social media users and small to medium size enterprises.
+- I handled finances, strategy, project managing our developers, and administration.
+- Project managed the launching of our web-application.( https://www.nanoflex.uk/ )
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I pitched my company against 50,000 applicants to achieve a spot in an accelerator based in Boston that was made up of 28 participants. While there I continued to pitch the company to people in the VC community and to successful founders. I recieved a lot of feedback and was able to effectively use it to improve our company. I think that my ability to listen and to talk allows me to work well in a team.
 
-#### Project Management
-
-- I project managed the building of a webapplication that generated revenue for the start-up I founded.
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Process Based work for solving problems
+I completed a degree in mathematics. This required a lot of patience and a strong approach to problem solving. It taught me to break down larger problems into smaller ones and to thin about different possible approaches to a solution before jumping in. I believe this has helped me get into a good software developer mindset from early on.
 
 #### Another skill
 
@@ -54,10 +44,10 @@ I honed my communication skills while completing my thesis at university, which 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, DDT, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript, React, MongoDB, SQL (PostgreSQL)
+- RSpec, Capybara, Cypress, Jest
 
 #### Queen Mary University London 2017-2021
 
@@ -67,7 +57,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+I co-founded a non-profit, Changing Gears. We ran charity events that raised money for various healthcare organisations such as Great Ormand Street childrens hospital and the British Heart Foundation. Over a span of 4 months we raised £10,000 for these organisations.
 
 ## Hobbies
 

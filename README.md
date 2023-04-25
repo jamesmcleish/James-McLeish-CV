@@ -17,8 +17,6 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 - **Testing frameworks:** Jest, Cypress, RSpec, Capybara
 - **Version control:** Git, GitHub
 
-## Skills
-
 ## Work Experience
 
 #### NanoFlex (June 2022 - December 2022)  
@@ -28,6 +26,8 @@ Co-founder and CEO
 - Generated revenue by matching clients from either side of the business, small social media users and small to medium size enterprises.
 - I handled finances, strategy, project managing our developers, and administration.
 - Project managed the launching of our web-application.( https://www.nanoflex.uk/ )
+
+## Skills
 
 #### Communication
 I pitched my company against 50,000 applicants to achieve a spot in an accelerator based in Boston that was made up of 28 participants. While there I continued to pitch the company to people in the VC community and to successful founders. I recieved a lot of feedback and was able to effectively use it to improve our company.

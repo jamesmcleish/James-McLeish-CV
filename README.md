@@ -51,7 +51,7 @@ I completed a degree in mathematics. This required a lot of patience and a stron
 - Graph theory and random walks in python
 - C++
 
-#### Charitable Work
+## Charitable Work
 
 I co-founded a non-profit, Changing Gears. We ran charity events that raised money for various healthcare organisations such as Great Ormand Street childrens hospital and the British Heart Foundation. Over a span of 4 months we raised roughly £10,000 for these organisations.
 

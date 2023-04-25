@@ -24,7 +24,7 @@ Co-founder and CEO
 
 - As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000 in funding.
 - Generated revenue by matching clients from either side of the business, small social media users and small to medium size enterprises.
-- I handled finances, strategy, project managing our developers, and administration.
+- I handled finances, strategy, managing our developers, and administration.
 - Project managed the launching of our web-application.( https://www.nanoflex.uk/ )
 
 ## Skills

@@ -33,7 +33,7 @@ Co-founder and CEO
 I pitched my company against 50,000 applicants to achieve a spot in an accelerator based in Boston that was made up of 28 participants. While there I continued to pitch the company to people in the VC community and to successful founders. I recieved a lot of feedback and was able to effectively use it to improve our company.
 
 #### Process Based work for solving problems
-I completed a degree in mathematics. This required a lot of patience and a strong approach to problem solving. It taught me to break down larger problems into smaller ones and to thin about different possible approaches to a solution before jumping in. I believe this has helped me get into a good software developer mindset from early on.
+I completed a degree in mathematics. This required a lot of patience and a strong approach to problem solving. It taught me to break down larger problems into smaller ones and to think about different possible approaches to a solution before jumping in. I believe this has helped me get into a good software developer mindset from early on.
 
 ## Education
 

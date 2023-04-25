@@ -14,21 +14,16 @@ I am an inquisitive full stack software developer
 NanoFlex (start-date to end-date)  
 Co-founder and CEO
 
-- As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- As a company we were invited to a start-up accelerator in Boston to compete for $1,000,000. Out of 50,000 applicants we were one of the 28 selected to attend.
+- Generated revenue by matching clients from either side of the business, small social media users and small to medium size enterprises.
+- I handled finances, strategy, project managing our developers, and administration.
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
-- **Front-end:** JavaScript/TypeScript (React), HTML, CSS (Bootstrap, Tailwind, Sass), Three.js(WebGL)
-- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record), REST API, GraphQL
-- **Database:** MongoDB, SQL (PostgreSQL), Firebase
+- **Front-end:** JavaScript (React), HTML, CSS (Tailwind)
+- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record), Python (flask)
+- **Database:** MongoDB, SQL (PostgreSQL)
 - **Testing frameworks:** Jest, Cypress, RSpec, Capybara
-- **Deployment:** Heroku, Netlify, Docker
-- **Continuous Integration/Deployment:** CircleCI
 - **Version control:** Git, GitHub
 
 ## Skills

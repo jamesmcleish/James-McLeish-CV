@@ -7,7 +7,7 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
 | Makers Final Project  | Japanese language learning game| Redux, MERN, JWT       |https://github.com/SimpleLuke/japanese-learning-RPG|
-| Mnist number guesser | An interactive whiteboard built in React and a CNN on the backend making predictions  |Python, FLask, React, Tensorflow, Keras | https://github.com/jamesmcleish/MNIST-number-guesser |
+| Mnist number guesser | An interactive whiteboard built in React and a CNN that sends predictions back to the webpage and displays them |Python, FLask, React, Tensorflow, Keras | https://github.com/jamesmcleish/MNIST-number-guesser |
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 

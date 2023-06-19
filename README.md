@@ -8,7 +8,7 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 | ---------------------------- | -------------------------------| ----------------- |---------|
 | Makers Final Project  | Japanese language learning game| Redux, MERN, JWT       |https://github.com/jamesmcleish/japanese-learning-RPG|
 | Mnist number guesser | An interactive whiteboard built in React and a CNN that sends predictions back to the webpage and displays them |Python, FLask, React, Tensorflow, Keras | https://github.com/jamesmcleish/MNIST-number-guesser |
-|Facebook Clone|Facebook clone that features sign-up, login, posts and likes|Tailwind CSS, TailwindUIHeadless UI, Heroicons, React, MongoDB, Express |https://github.com/jamesmcleish/acebook-fire|
+|Facebook Clone|Features include sign-up, login, posts and likes|Tailwind CSS, TailwindUIHeadless UI, Heroicons, React, MongoDB, Express |https://github.com/jamesmcleish/acebook-fire|
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 

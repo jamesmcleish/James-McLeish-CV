@@ -6,7 +6,7 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 
 | Name                         | Description                    | Tech/tools        |   link  |
 | ---------------------------- | -------------------------------| ----------------- |---------|
-| Japanese language learning game | A language game with quizzes, a coin system, wardrobe, character, and words leart | Redux, MERN, JWT       |https://github.com/jamesmcleish/japanese-learning-RPG|
+| Japanese language learning game | A language game with quizzes, a coin system, wardrobe, character, and words learnt | Redux, MERN, JWT       |https://github.com/jamesmcleish/japanese-learning-RPG|
 | Mnist number guesser | An interactive whiteboard built in React and a CNN that sends predictions back to the webpage and displays them |Python, FLask, React, Tensorflow, Keras | https://github.com/jamesmcleish/MNIST-number-guesser |
 |Facebook Clone|Features include sign-up, login, posts and likes|Tailwind CSS, TailwindUIHeadless UI, Heroicons, React, MongoDB, Express |https://github.com/jamesmcleish/acebook-fire|
 

@@ -12,7 +12,7 @@ I am an inquisitive **full stack software** developer that likes to prioritse re
 ## <a name="tech-stack">Tech stack 🤖</a>
 
 - **Front-end:** JavaScript (React), HTML, CSS (Tailwind)
-- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record)
+- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record), Python (FLask)
 - **Database:** MongoDB, SQL (PostgreSQL)
 - **Testing frameworks:** Jest, Cypress, RSpec, Capybara
 - **Version control:** Git, GitHub

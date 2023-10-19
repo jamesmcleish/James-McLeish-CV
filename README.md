@@ -39,7 +39,6 @@ I completed a degree in mathematics. This required a lot of patience and a stron
 ## Education
 
 #### Makers Academy (January 2023 to April 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - OOP, TDD, DDT, MVC, DDD
 - Agile/XP
 - Ruby, JavaScript, React, MongoDB, SQL (PostgreSQL)
